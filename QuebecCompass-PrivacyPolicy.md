@@ -22,7 +22,8 @@ The App never asks for, stores, or handles your Social Insurance Number, access 
 ## Optional "Assisted Mode" (Accessibility Service)
 
 Assisted mode is optional and is off unless you turn it on after reading an in-app explanation and giving your consent. When on, the App uses Android's Accessibility Service, limited to web browsers, to read the visible text of the page your browser is showing. It does this only to work out which declaration question you are on and to spot the confirmation date, so it can show the note you wrote for that question.
-- The text is used on your device only and is **not stored, sent or shared**
+- The page text is used on your device only and is **not stored, sent or shared**
+- The only thing the App keeps is the next report date it finds on a confirmation page. It is saved on your device, not encrypted, is offered to you to confirm, and is never sent to us
 - The service never taps, types, fills in, or submits anything
 - You can turn it off at any time in the App or in Android's Accessibility settings
 
@@ -45,7 +46,7 @@ The App displays ads provided by **Google AdMob**. Ads are set to non-personalis
 - Your Social Insurance Number, credentials or account details
 - Your location
 - Your notes, dates, amounts or answers
-- Anything read by Assisted mode
+- The text of any page read by Assisted mode
 - Payment information (the App is free and has no in-app purchases)
 
 ## Data Sharing
